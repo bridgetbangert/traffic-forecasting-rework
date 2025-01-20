@@ -1,3 +1,2 @@
 .env
-anaconda_projects/
-Archive/
+anaconda_projects/*
